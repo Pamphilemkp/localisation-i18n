@@ -1,0 +1,10 @@
+{
+    "translation": {
+      "app_name": "CuisineVite",
+      "edit_word": {
+        "edit1": "Modifier",
+        "edit2": "enregister et rafraichissez le navigateur"
+      },
+      "learn": "Apprendre React"
+    }
+}
