@@ -1,10 +1,9 @@
 {
-    "translation": {
       "app_name": "CuisineVite",
+      "choice": "Choisissez votre language",
       "edit_word": {
         "edit1": "Modifier",
-        "edit2": "enregister et rafraichissez le navigateur"
+        "edit2": "enregistrez-vous et rafraichissez le navigateur"
       },
       "learn": "Apprendre React"
-    }
 }

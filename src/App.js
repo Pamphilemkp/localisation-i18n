@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import { useTranslation } from "react-i18next";
+import LanguageSwitcher from './components/LanguageSwitcher';
 
 function App() {
   const { t } = useTranslation();
@@ -10,6 +11,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <p>{t('choice')}</p>
+        <LanguageSwitcher />
       <Navbar />
       <img src={logo} className="App-logo" alt="logo" />
 
